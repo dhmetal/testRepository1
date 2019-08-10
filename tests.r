@@ -1,1 +1,2 @@
-// starting a very cool code version 1
+// starting a very cool code version 2
+// we are making progress in version 2
